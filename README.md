@@ -1,0 +1,2 @@
+# Devnex Django assignment
+ 
